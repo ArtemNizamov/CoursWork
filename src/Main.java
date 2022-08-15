@@ -104,5 +104,6 @@ public class Main {
         for (Employee employee : employees) {
             System.out.println("Имя сотрудника = " + employee.getFullName());
         }
+
     }
 }
